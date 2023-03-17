@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/petriscreating/see-this/static/css/main.ffb27570.css",
+    "main.js": "/petriscreating/see-this/static/js/main.1464acaa.js",
+    "static/js/845.28cbacac.chunk.js": "/petriscreating/see-this/static/js/845.28cbacac.chunk.js",
+    "static/media/heroku.png": "/petriscreating/see-this/static/media/heroku.ce3792c9a8dd5823b177.png",
+    "static/media/chicken-2.jpg": "/petriscreating/see-this/static/media/chicken-2.586b3b30b73d95889f0e.jpg",
+    "static/media/do-it.mp3": "/petriscreating/see-this/static/media/do-it.bc74d7e980b743914521.mp3",
+    "static/media/JetBrainsMono-Italic-VariableFont_wght.ttf": "/petriscreating/see-this/static/media/JetBrainsMono-Italic-VariableFont_wght.41ea7ce5a94285e86a0b.ttf",
+    "static/media/JetBrainsMono-VariableFont_wght.ttf": "/petriscreating/see-this/static/media/JetBrainsMono-VariableFont_wght.ebc33bd57e78956d75ad.ttf",
+    "static/media/lila.jpg": "/petriscreating/see-this/static/media/lila.7d71d1eeec82e3716950.jpg",
+    "static/media/Neco-Regular.ttf": "/petriscreating/see-this/static/media/Neco-Regular.3820459c5993ea5f731f.ttf",
+    "static/media/black.jpg": "/petriscreating/see-this/static/media/black.8f0de72a2e2593122885.jpg",
+    "static/media/reina.jpg": "/petriscreating/see-this/static/media/reina.9a57880c29e3f51a4411.jpg",
+    "static/media/who-asks-satan.ttf": "/petriscreating/see-this/static/media/who-asks-satan.3993253149c9dbfc43df.ttf",
+    "static/media/old-man-crazy.jpg": "/petriscreating/see-this/static/media/old-man-crazy.97c2b36a03e628da49cb.jpg",
+    "static/media/oldboy-.jpg": "/petriscreating/see-this/static/media/oldboy-.5789198532eb1e15ad46.jpg",
+    "static/media/monkey.jpg": "/petriscreating/see-this/static/media/monkey.de59625b9395fde9c632.jpg",
+    "static/media/serbian.jpg": "/petriscreating/see-this/static/media/serbian.a3be12d93c446f79a669.jpg",
+    "static/media/chat-gpt.jpg": "/petriscreating/see-this/static/media/chat-gpt.700e036cd7d7c42850b9.jpg",
+    "static/media/quack.mp3": "/petriscreating/see-this/static/media/quack.0f16af3b7bf7b53681d9.mp3",
+    "static/media/duck-u.jpg": "/petriscreating/see-this/static/media/duck-u.5e3807d0cb00ffab6629.jpg",
+    "index.html": "/petriscreating/see-this/index.html",
+    "main.ffb27570.css.map": "/petriscreating/see-this/static/css/main.ffb27570.css.map",
+    "main.1464acaa.js.map": "/petriscreating/see-this/static/js/main.1464acaa.js.map",
+    "845.28cbacac.chunk.js.map": "/petriscreating/see-this/static/js/845.28cbacac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffb27570.css",
+    "static/js/main.1464acaa.js"
+  ]
+}
